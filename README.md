@@ -1,4 +1,3 @@
-# Spencer Davis
 # HangmanCodeChallenge
 
 ## Program Summary
